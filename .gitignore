@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .env
 .venv/
 __pycache__/
@@ -23,3 +24,13 @@ Thumbs.db
 *~
 .idea/
 .vscode/
+=======
+
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.db
+.streamlit/secrets.toml
+>>>>>>> aaca1078ae8c6befa78f8cccae65b2ee2a7b47bf

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NyayaAI — Indian Legal Scenario Analyzer
 
 An AI-powered application that helps users understand Indian legal situations by describing their problems in natural language. Built with Streamlit, OpenAI, and SQLite.
@@ -198,3 +199,6 @@ Sources reference official URLs from `indiacode.nic.in` and `legislative.gov.in`
 ## License
 
 This project is a college mini-project for educational purposes.
+=======
+# nyayaai
+>>>>>>> aaca1078ae8c6befa78f8cccae65b2ee2a7b47bf
